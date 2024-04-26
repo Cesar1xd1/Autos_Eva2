@@ -4,7 +4,7 @@
   "description": "Post: https://blog.nubecolectiva.com/como-crear-un-crud-con-node-js-16-6-2-y-bootstrap-5-parte-1/",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js --exec babel-node"
+    "cesar": "nodemon src/index.js --exec babel-node"
   },
   "keywords": [],
   "author": "Cesar1xd1",
