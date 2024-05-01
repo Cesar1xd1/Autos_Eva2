@@ -2,6 +2,9 @@
   "name": "app_abcc_mongo",
   "version": "0.0.1",
   "description": "Post: https://blog.nubecolectiva.com/como-crear-un-crud-con-node-js-16-6-2-y-bootstrap-5-parte-1/",
+  "engines": {
+    "node": "20.x"
+  },
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js --exec babel-node",
