@@ -28,6 +28,7 @@
     "@babel/node": "^7.23.9",
     "@babel/plugin-transform-runtime": "^7.24.3",
     "@babel/preset-env": "^7.24.0",
+    "ncp": "^2.0.0",
     "nodemon": "^3.1.0"
   }
 }
